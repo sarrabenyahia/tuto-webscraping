@@ -18,9 +18,9 @@ Welcome to the additional resources page for our Web Scraping course! This docum
 
 ## 🎥 Video Tutorials
 
-1. [Web Scraping with Python - Beautiful Soup Crash Course](https://www.youtube.com/watch?v=s4jtkzHhLzY)
+1. [Web Scraping with Python - Scrapy Crash Course](https://www.youtube.com/watch?v=s4jtkzHhLzY)
    - A YouTube tutorial by John Watson Rooney.
-   - Provides a hands-on introduction to web scraping using Beautiful Soup.
+   - Provides a hands-on introduction to web scraping using scrapy.
 
 ## 💡 How to Use These Resources
 
