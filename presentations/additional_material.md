@@ -2,6 +2,16 @@
 
 Welcome to the additional resources page for our Web Scraping course! This document contains a curated list of external materials that can help deepen your understanding of web scraping techniques and best practices.
 
+## 📖 Book material
+[Web Scraping with Python: Collecting More Data from the Modern Web](https://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491985577)
+
+**Author**: Ryan Mitchell
+**Publisher**: O'Reilly Media
+**Edition**: 2nd Edition (April 2018)
+
+This comprehensive guide by Ryan Mitchell is an essential resource for anyone looking to master web scraping techniques using Python. The book covers a wide range of topics, from basic scraping methods to advanced techniques for handling complex, modern websites.
+This book not only teaches the technical aspects of web scraping but also emphasizes responsible scraping practices. It's an invaluable resource for our course, providing deeper insights and advanced techniques to complement our practical exercises.
+
 ## 📖 Articles and Tutorials
 
 1. [Web Scraping 101 with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
