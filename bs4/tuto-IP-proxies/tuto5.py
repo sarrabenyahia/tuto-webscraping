@@ -13,7 +13,7 @@ It includes the following key features:
 This script is designed to handle common issues with free proxies, such as unavailability and slow response times. 
 It's particularly useful for large-scale web scraping projects where maintaining anonymity and bypassing rate limits 
 are crucial. The script demonstrates advanced concepts in Python such as concurrent programming, error handling, 
-and efficient resource management in the context of web scraping.
+and efficient resource management in the context of web scraping. However, this script is not 100% effective as free proxies are not reliable.
 """
 
 import requests
