@@ -98,3 +98,9 @@ Nous allons les utiliser pour scraper plusieurs pages à la fois.
    ```
    response.css('li.next a ::attr(href)').get()
    ```
+
+## Lancer un spider
+1. Pour lancer un spider :
+```
+scrapy runspider <name_of_spider.py>
+```
