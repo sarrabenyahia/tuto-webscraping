@@ -1,0 +1,871 @@
+{
+  "info_page": {
+    "titre": "Welcome to Python.org",
+    "url": "https://www.python.org/",
+    "date_extraction": "2024-10-22 20:29:56",
+    "cookies": 7,
+    "taille_page": 66522
+  },
+  "liens": [
+    {
+      "texte": "Skip to content",
+      "href": "https://www.python.org/#content",
+      "title": "Skip to content"
+    },
+    {
+      "texte": "Python",
+      "href": "https://www.python.org/",
+      "title": "The Python Programming Language"
+    },
+    {
+      "texte": "PSF",
+      "href": "https://www.python.org/psf/",
+      "title": "The Python Software Foundation"
+    },
+    {
+      "texte": "Docs",
+      "href": "https://docs.python.org/",
+      "title": "Python Documentation"
+    },
+    {
+      "texte": "PyPI",
+      "href": "https://pypi.org/",
+      "title": "Python Package Index"
+    },
+    {
+      "texte": "Jobs",
+      "href": "https://www.python.org/jobs/",
+      "title": "Python Job Board"
+    },
+    {
+      "texte": "Community",
+      "href": "https://www.python.org/community/",
+      "title": ""
+    },
+    {
+      "texte": "Donate",
+      "href": "https://psfmember.org/civicrm/contribute/transact?reset=1&id=2",
+      "title": ""
+    },
+    {
+      "texte": "Socialize",
+      "href": "https://www.python.org/#",
+      "title": ""
+    },
+    {
+      "texte": "About",
+      "href": "https://www.python.org/about/",
+      "title": ""
+    },
+    {
+      "texte": "Downloads",
+      "href": "https://www.python.org/downloads/",
+      "title": ""
+    },
+    {
+      "texte": "Documentation",
+      "href": "https://www.python.org/doc/",
+      "title": ""
+    },
+    {
+      "texte": "Community",
+      "href": "https://www.python.org/community/",
+      "title": ""
+    },
+    {
+      "texte": "Success Stories",
+      "href": "https://www.python.org/success-stories/",
+      "title": "success-stories"
+    },
+    {
+      "texte": "News",
+      "href": "https://www.python.org/blogs/",
+      "title": "News from around the Python world"
+    },
+    {
+      "texte": "Events",
+      "href": "https://www.python.org/events/",
+      "title": ""
+    },
+    {
+      "texte": ">_",
+      "href": "https://www.python.org/shell/",
+      "title": ""
+    },
+    {
+      "texte": "More about defining functions in Python 3",
+      "href": "https://docs.python.org/3/tutorial/controlflow.html#defining-functions",
+      "title": ""
+    },
+    {
+      "texte": "1",
+      "href": null,
+      "title": ""
+    },
+    {
+      "texte": "2",
+      "href": null,
+      "title": ""
+    },
+    {
+      "texte": "3",
+      "href": null,
+      "title": ""
+    },
+    {
+      "texte": "4",
+      "href": null,
+      "title": ""
+    },
+    {
+      "texte": "5",
+      "href": null,
+      "title": ""
+    },
+    {
+      "texte": "Learn More",
+      "href": "https://www.python.org/doc/",
+      "title": ""
+    },
+    {
+      "texte": "Take the 2024 survey!",
+      "href": "https://survey.alchemer.com/s3/8009809/python-developers-survey-2024",
+      "title": ""
+    },
+    {
+      "texte": "Start with our Beginner’s Guide",
+      "href": "https://www.python.org/about/gettingstarted/",
+      "title": ""
+    },
+    {
+      "texte": "Python 3.13.0",
+      "href": "https://www.python.org/downloads/release/python-3130/",
+      "title": ""
+    },
+    {
+      "texte": "docs.python.org",
+      "href": "https://docs.python.org/",
+      "title": ""
+    },
+    {
+      "texte": "jobs.python.org",
+      "href": "https://jobs.python.org/",
+      "title": ""
+    },
+    {
+      "texte": "More",
+      "href": "https://blog.python.org/",
+      "title": "More News"
+    },
+    {
+      "texte": "Python 3.14.0 alpha 1 is now available",
+      "href": "https://pythoninsider.blogspot.com/2024/10/python-3140-alpha-1-is-now-available.html",
+      "title": ""
+    },
+    {
+      "texte": "PSF Q3 Highlights: Board news, development updates and more!",
+      "href": "https://mailchi.mp/python/python-software-foundation-july-2024-newsletter-19873215",
+      "title": ""
+    },
+    {
+      "texte": "Join the Python Developers Survey 2024: Share your experience!",
+      "href": "https://pyfound.blogspot.com/2024/10/join-python-developers-survey-2024.html",
+      "title": ""
+    },
+    {
+      "texte": "Python 3.13.0 (final) released",
+      "href": "https://pythoninsider.blogspot.com/2024/10/python-3130-final-released.html",
+      "title": ""
+    },
+    {
+      "texte": "Python 3.13 and the Latest Trends: A Developer's Guide to 2025 - Live Stream Event",
+      "href": "https://pyfound.blogspot.com/2024/10/python-313-and-latest-trends-developers.html",
+      "title": ""
+    },
+    {
+      "texte": "More",
+      "href": "https://www.python.org/events/calendars/",
+      "title": "More Events"
+    },
+    {
+      "texte": "October Oslo Python meetup",
+      "href": "https://www.python.org/events/python-user-group/1853/",
+      "title": ""
+    },
+    {
+      "texte": "PyCon Korea 2024",
+      "href": "https://www.python.org/events/python-events/1776/",
+      "title": ""
+    },
+    {
+      "texte": "PyCon APAC 2024",
+      "href": "https://www.python.org/events/python-events/1732/",
+      "title": ""
+    },
+    {
+      "texte": "PythonHo Conference 2024",
+      "href": "https://www.python.org/events/python-events/1822/",
+      "title": ""
+    },
+    {
+      "texte": "PyCon Korea 2024",
+      "href": "https://www.python.org/events/python-events/1857/",
+      "title": ""
+    },
+    {
+      "texte": "More",
+      "href": "https://www.python.org/success-stories/",
+      "title": "More Success Stories"
+    },
+    {
+      "texte": "Python and its broad variety of libraries are very well suited to develop customized machine learning tools which tackle the complex challenges posed by financial time series.",
+      "href": "https://www.python.org/success-stories/python-for-financial-machine-learning-at-union-investment/",
+      "title": ""
+    },
+    {
+      "texte": "Python for Financial Machine Learning at Union Investment",
+      "href": "https://www.python.org/success-stories/python-for-financial-machine-learning-at-union-investment/",
+      "title": ""
+    },
+    {
+      "texte": "More",
+      "href": "https://www.python.org/about/apps",
+      "title": "More Applications"
+    },
+    {
+      "texte": "Django",
+      "href": "http://www.djangoproject.com/",
+      "title": ""
+    },
+    {
+      "texte": "Pyramid",
+      "href": "http://www.pylonsproject.org/",
+      "title": ""
+    },
+    {
+      "texte": "Bottle",
+      "href": "http://bottlepy.org/",
+      "title": ""
+    },
+    {
+      "texte": "Tornado",
+      "href": "http://tornadoweb.org/",
+      "title": ""
+    },
+    {
+      "texte": "Flask",
+      "href": "http://flask.pocoo.org/",
+      "title": ""
+    },
+    {
+      "texte": "web2py",
+      "href": "http://www.web2py.com/",
+      "title": ""
+    },
+    {
+      "texte": "tkInter",
+      "href": "http://wiki.python.org/moin/TkInter",
+      "title": ""
+    },
+    {
+      "texte": "PyGObject",
+      "href": "https://wiki.gnome.org/Projects/PyGObject",
+      "title": ""
+    },
+    {
+      "texte": "PyQt",
+      "href": "http://www.riverbankcomputing.co.uk/software/pyqt/intro",
+      "title": ""
+    },
+    {
+      "texte": "PySide",
+      "href": "https://wiki.qt.io/PySide",
+      "title": ""
+    },
+    {
+      "texte": "Kivy",
+      "href": "https://kivy.org/",
+      "title": ""
+    },
+    {
+      "texte": "wxPython",
+      "href": "http://www.wxpython.org/",
+      "title": ""
+    },
+    {
+      "texte": "DearPyGui",
+      "href": "https://dearpygui.readthedocs.io/en/latest/",
+      "title": ""
+    },
+    {
+      "texte": "SciPy",
+      "href": "http://www.scipy.org/",
+      "title": ""
+    },
+    {
+      "texte": "Pandas",
+      "href": "http://pandas.pydata.org/",
+      "title": ""
+    },
+    {
+      "texte": "IPython",
+      "href": "http://ipython.org/",
+      "title": ""
+    },
+    {
+      "texte": "Buildbot",
+      "href": "http://buildbot.net/",
+      "title": ""
+    },
+    {
+      "texte": "Trac",
+      "href": "http://trac.edgewall.org/",
+      "title": ""
+    },
+    {
+      "texte": "Roundup",
+      "href": "http://roundup.sourceforge.net/",
+      "title": ""
+    },
+    {
+      "texte": "Ansible",
+      "href": "http://www.ansible.com/",
+      "title": ""
+    },
+    {
+      "texte": "Salt",
+      "href": "https://saltproject.io/",
+      "title": ""
+    },
+    {
+      "texte": "OpenStack",
+      "href": "https://www.openstack.org/",
+      "title": ""
+    },
+    {
+      "texte": "xonsh",
+      "href": "https://xon.sh/",
+      "title": ""
+    },
+    {
+      "texte": "Python Software Foundation",
+      "href": "https://www.python.org/psf/",
+      "title": ""
+    },
+    {
+      "texte": "Learn more",
+      "href": "https://www.python.org/psf/",
+      "title": ""
+    },
+    {
+      "texte": "Become a Member",
+      "href": "https://www.python.org/users/membership/",
+      "title": ""
+    },
+    {
+      "texte": "Donate to the PSF",
+      "href": "https://www.python.org/psf/donations/",
+      "title": ""
+    },
+    {
+      "texte": "About",
+      "href": "https://www.python.org/about/",
+      "title": ""
+    },
+    {
+      "texte": "Applications",
+      "href": "https://www.python.org/about/apps/",
+      "title": ""
+    },
+    {
+      "texte": "Quotes",
+      "href": "https://www.python.org/about/quotes/",
+      "title": ""
+    },
+    {
+      "texte": "Getting Started",
+      "href": "https://www.python.org/about/gettingstarted/",
+      "title": ""
+    },
+    {
+      "texte": "Help",
+      "href": "https://www.python.org/about/help/",
+      "title": ""
+    },
+    {
+      "texte": "Python Brochure",
+      "href": "http://brochure.getpython.info/",
+      "title": ""
+    },
+    {
+      "texte": "Downloads",
+      "href": "https://www.python.org/downloads/",
+      "title": ""
+    },
+    {
+      "texte": "All releases",
+      "href": "https://www.python.org/downloads/",
+      "title": ""
+    },
+    {
+      "texte": "Source code",
+      "href": "https://www.python.org/downloads/source/",
+      "title": ""
+    },
+    {
+      "texte": "Windows",
+      "href": "https://www.python.org/downloads/windows/",
+      "title": ""
+    },
+    {
+      "texte": "macOS",
+      "href": "https://www.python.org/downloads/macos/",
+      "title": ""
+    },
+    {
+      "texte": "Other Platforms",
+      "href": "https://www.python.org/download/other/",
+      "title": ""
+    },
+    {
+      "texte": "License",
+      "href": "https://docs.python.org/3/license.html",
+      "title": ""
+    },
+    {
+      "texte": "Alternative Implementations",
+      "href": "https://www.python.org/download/alternatives",
+      "title": ""
+    },
+    {
+      "texte": "Documentation",
+      "href": "https://www.python.org/doc/",
+      "title": ""
+    },
+    {
+      "texte": "Docs",
+      "href": "https://www.python.org/doc/",
+      "title": ""
+    },
+    {
+      "texte": "Audio/Visual Talks",
+      "href": "https://www.python.org/doc/av",
+      "title": ""
+    },
+    {
+      "texte": "Beginner's Guide",
+      "href": "https://wiki.python.org/moin/BeginnersGuide",
+      "title": ""
+    },
+    {
+      "texte": "Developer's Guide",
+      "href": "https://devguide.python.org/",
+      "title": ""
+    },
+    {
+      "texte": "FAQ",
+      "href": "https://docs.python.org/faq/",
+      "title": ""
+    },
+    {
+      "texte": "Non-English Docs",
+      "href": "http://wiki.python.org/moin/Languages",
+      "title": ""
+    },
+    {
+      "texte": "PEP Index",
+      "href": "https://peps.python.org/",
+      "title": ""
+    },
+    {
+      "texte": "Python Books",
+      "href": "https://wiki.python.org/moin/PythonBooks",
+      "title": ""
+    },
+    {
+      "texte": "Python Essays",
+      "href": "https://www.python.org/doc/essays/",
+      "title": ""
+    },
+    {
+      "texte": "Community",
+      "href": "https://www.python.org/community/",
+      "title": ""
+    },
+    {
+      "texte": "Diversity",
+      "href": "https://www.python.org/community/diversity/",
+      "title": ""
+    },
+    {
+      "texte": "Mailing Lists",
+      "href": "https://www.python.org/community/lists/",
+      "title": ""
+    },
+    {
+      "texte": "IRC",
+      "href": "https://www.python.org/community/irc/",
+      "title": ""
+    },
+    {
+      "texte": "Forums",
+      "href": "https://www.python.org/community/forums/",
+      "title": ""
+    },
+    {
+      "texte": "PSF Annual Impact Report",
+      "href": "https://www.python.org/psf/annual-report/2021/",
+      "title": ""
+    },
+    {
+      "texte": "Python Conferences",
+      "href": "https://www.python.org/community/workshops/",
+      "title": ""
+    },
+    {
+      "texte": "Special Interest Groups",
+      "href": "https://www.python.org/community/sigs/",
+      "title": ""
+    },
+    {
+      "texte": "Python Logo",
+      "href": "https://www.python.org/community/logos/",
+      "title": ""
+    },
+    {
+      "texte": "Python Wiki",
+      "href": "https://wiki.python.org/moin/",
+      "title": ""
+    },
+    {
+      "texte": "Code of Conduct",
+      "href": "https://www.python.org/psf/conduct/",
+      "title": ""
+    },
+    {
+      "texte": "Community Awards",
+      "href": "https://www.python.org/community/awards",
+      "title": ""
+    },
+    {
+      "texte": "Get Involved",
+      "href": "https://www.python.org/psf/get-involved/",
+      "title": ""
+    },
+    {
+      "texte": "Shared Stories",
+      "href": "https://www.python.org/psf/community-stories/",
+      "title": ""
+    },
+    {
+      "texte": "Success Stories",
+      "href": "https://www.python.org/success-stories/",
+      "title": "success-stories"
+    },
+    {
+      "texte": "Arts",
+      "href": "https://www.python.org/success-stories/category/arts/",
+      "title": ""
+    },
+    {
+      "texte": "Business",
+      "href": "https://www.python.org/success-stories/category/business/",
+      "title": ""
+    },
+    {
+      "texte": "Education",
+      "href": "https://www.python.org/success-stories/category/education/",
+      "title": ""
+    },
+    {
+      "texte": "Engineering",
+      "href": "https://www.python.org/success-stories/category/engineering/",
+      "title": ""
+    },
+    {
+      "texte": "Government",
+      "href": "https://www.python.org/success-stories/category/government/",
+      "title": ""
+    },
+    {
+      "texte": "Scientific",
+      "href": "https://www.python.org/success-stories/category/scientific/",
+      "title": ""
+    },
+    {
+      "texte": "Software Development",
+      "href": "https://www.python.org/success-stories/category/software-development/",
+      "title": ""
+    },
+    {
+      "texte": "News",
+      "href": "https://www.python.org/blogs/",
+      "title": "News from around the Python world"
+    },
+    {
+      "texte": "Python News",
+      "href": "https://www.python.org/blogs/",
+      "title": "Python Insider Blog Posts"
+    },
+    {
+      "texte": "PSF Newsletter",
+      "href": "https://www.python.org/psf/newsletter/",
+      "title": "Python Software Foundation Newsletter"
+    },
+    {
+      "texte": "PSF News",
+      "href": "http://pyfound.blogspot.com/",
+      "title": "PSF Blog"
+    },
+    {
+      "texte": "PyCon US News",
+      "href": "http://pycon.blogspot.com/",
+      "title": "PyCon Blog"
+    },
+    {
+      "texte": "News from the Community",
+      "href": "http://planetpython.org/",
+      "title": "Planet Python"
+    },
+    {
+      "texte": "Events",
+      "href": "https://www.python.org/events/",
+      "title": ""
+    },
+    {
+      "texte": "Python Events",
+      "href": "https://www.python.org/events/python-events/",
+      "title": ""
+    },
+    {
+      "texte": "User Group Events",
+      "href": "https://www.python.org/events/python-user-group/",
+      "title": ""
+    },
+    {
+      "texte": "Python Events Archive",
+      "href": "https://www.python.org/events/python-events/past/",
+      "title": ""
+    },
+    {
+      "texte": "User Group Events Archive",
+      "href": "https://www.python.org/events/python-user-group/past/",
+      "title": ""
+    },
+    {
+      "texte": "Submit an Event",
+      "href": "https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event",
+      "title": ""
+    },
+    {
+      "texte": "Contributing",
+      "href": "https://www.python.org/dev/",
+      "title": ""
+    },
+    {
+      "texte": "Developer's Guide",
+      "href": "https://devguide.python.org/",
+      "title": ""
+    },
+    {
+      "texte": "Issue Tracker",
+      "href": "https://github.com/python/cpython/issues",
+      "title": ""
+    },
+    {
+      "texte": "python-dev list",
+      "href": "https://mail.python.org/mailman/listinfo/python-dev",
+      "title": ""
+    },
+    {
+      "texte": "Core Mentorship",
+      "href": "https://www.python.org/dev/core-mentorship/",
+      "title": ""
+    },
+    {
+      "texte": "Report a Security Issue",
+      "href": "https://www.python.org/dev/security/",
+      "title": ""
+    },
+    {
+      "texte": "Help & General Contact",
+      "href": "https://www.python.org/about/help/",
+      "title": ""
+    },
+    {
+      "texte": "Diversity Initiatives",
+      "href": "https://www.python.org/community/diversity/",
+      "title": ""
+    },
+    {
+      "texte": "Submit Website Bug",
+      "href": "https://github.com/python/pythondotorg/issues",
+      "title": ""
+    },
+    {
+      "texte": "Status",
+      "href": "https://status.python.org/",
+      "title": "All Systems Operational"
+    },
+    {
+      "texte": "Python Software Foundation",
+      "href": "https://www.python.org/psf-landing/",
+      "title": ""
+    },
+    {
+      "texte": "Legal Statements",
+      "href": "https://www.python.org/about/legal/",
+      "title": ""
+    },
+    {
+      "texte": "Privacy Notice",
+      "href": "https://policies.python.org/python.org/Privacy-Notice/",
+      "title": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.python.org/static/img/python-logo@2x.png",
+      "alt": "python™",
+      "width": "290",
+      "height": "82"
+    }
+  ],
+  "contenu_textuel": [
+    "The core of extensible programming is defining functions. Python allows mandatory and optional arguments, keyword arguments, and even arbitrary argument lists. More about defining functions in Python 3",
+    "Python is a programming language that lets you work quickly\nand integrate systems more effectively. Learn More",
+    "Whether you're new to programming or an experienced developer, it's easy to learn and use Python.",
+    "Start with our Beginner’s Guide",
+    "Python source code and installers are available for download for all versions!",
+    "Latest: Python 3.13.0",
+    "Documentation for Python's standard library, along with tutorials and guides, are available online.",
+    "docs.python.org",
+    "Looking for work or have a Python related position that you're trying to hire for? Our relaunched community-run job board is the place to go.",
+    "jobs.python.org",
+    "More",
+    "More",
+    "More",
+    "Python for Financial Machine Learning at Union Investment by Dr. Christian Mandery and Nikolas Gerlich",
+    "More",
+    "The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers. Learn more",
+    "Become a Member Donate to the PSF",
+    "Copyright ©2001-2024.  Python Software Foundation  Legal Statements  Privacy Notice"
+  ],
+  "metadata": [
+    {
+      "name": "",
+      "content": "IE=edge",
+      "property": null
+    },
+    {
+      "name": "application-name",
+      "content": "Python.org",
+      "property": null
+    },
+    {
+      "name": "msapplication-tooltip",
+      "content": "The official home of the Python Programming Language",
+      "property": null
+    },
+    {
+      "name": "apple-mobile-web-app-title",
+      "content": "Python.org",
+      "property": null
+    },
+    {
+      "name": "apple-mobile-web-app-capable",
+      "content": "yes",
+      "property": null
+    },
+    {
+      "name": "apple-mobile-web-app-status-bar-style",
+      "content": "black",
+      "property": null
+    },
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1.0",
+      "property": null
+    },
+    {
+      "name": "HandheldFriendly",
+      "content": "True",
+      "property": null
+    },
+    {
+      "name": "format-detection",
+      "content": "telephone=no",
+      "property": null
+    },
+    {
+      "name": "",
+      "content": "on",
+      "property": null
+    },
+    {
+      "name": "",
+      "content": "false",
+      "property": null
+    },
+    {
+      "name": "msapplication-TileImage",
+      "content": "/static/metro-icon-144x144.png",
+      "property": null
+    },
+    {
+      "name": "msapplication-TileColor",
+      "content": "#3673a5",
+      "property": null
+    },
+    {
+      "name": "msapplication-navbutton-color",
+      "content": "#3673a5",
+      "property": null
+    },
+    {
+      "name": "description",
+      "content": "The official home of the Python Programming Language",
+      "property": null
+    },
+    {
+      "name": "keywords",
+      "content": "Python programming language object oriented web free open source software license documentation download community",
+      "property": null
+    },
+    {
+      "name": "",
+      "content": "website",
+      "property": "og:type"
+    },
+    {
+      "name": "",
+      "content": "Python.org",
+      "property": "og:site_name"
+    },
+    {
+      "name": "",
+      "content": "Welcome to Python.org",
+      "property": "og:title"
+    },
+    {
+      "name": "",
+      "content": "The official home of the Python Programming Language",
+      "property": "og:description"
+    },
+    {
+      "name": "",
+      "content": "https://www.python.org/static/opengraph-icon-200x200.png",
+      "property": "og:image"
+    },
+    {
+      "name": "",
+      "content": "https://www.python.org/static/opengraph-icon-200x200.png",
+      "property": "og:image:secure_url"
+    },
+    {
+      "name": "",
+      "content": "https://www.python.org/",
+      "property": "og:url"
+    }
+  ]
+}
