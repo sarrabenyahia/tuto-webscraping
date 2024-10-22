@@ -2,9 +2,9 @@
   "info_page": {
     "titre": "Welcome to Python.org",
     "url": "https://www.python.org/",
-    "date_extraction": "2024-10-22 20:29:56",
+    "date_extraction": "2024-10-22 20:36:41",
     "cookies": 7,
-    "taille_page": 66522
+    "taille_page": 66693
   },
   "liens": [
     {
@@ -218,13 +218,13 @@
       "title": "More Success Stories"
     },
     {
-      "texte": "Python and its broad variety of libraries are very well suited to develop customized machine learning tools which tackle the complex challenges posed by financial time series.",
-      "href": "https://www.python.org/success-stories/python-for-financial-machine-learning-at-union-investment/",
+      "texte": "Thanks to the flexibility of Python and the powerful ecosystem of packages, the Azure CLI supports features such as autocompletion (in shells that support it), persistent credentials, JMESPath result parsing, lazy initialization, network-less unit tests, and more.",
+      "href": "https://www.python.org/success-stories/building-an-open-source-and-cross-platform-azure-cli-with-python/",
       "title": ""
     },
     {
-      "texte": "Python for Financial Machine Learning at Union Investment",
-      "href": "https://www.python.org/success-stories/python-for-financial-machine-learning-at-union-investment/",
+      "texte": "Building an open-source and cross-platform Azure CLI with Python",
+      "href": "https://www.python.org/success-stories/building-an-open-source-and-cross-platform-azure-cli-with-python/",
       "title": ""
     },
     {
@@ -732,7 +732,7 @@
     }
   ],
   "contenu_textuel": [
-    "The core of extensible programming is defining functions. Python allows mandatory and optional arguments, keyword arguments, and even arbitrary argument lists. More about defining functions in Python 3",
+    "Lists (known as arrays in other languages) are one of the compound data types that Python understands. Lists can be indexed, sliced and manipulated with other built-in functions. More about lists in Python 3",
     "Python is a programming language that lets you work quickly\nand integrate systems more effectively. Learn More",
     "Whether you're new to programming or an experienced developer, it's easy to learn and use Python.",
     "Start with our Beginner’s Guide",
@@ -745,7 +745,7 @@
     "More",
     "More",
     "More",
-    "Python for Financial Machine Learning at Union Investment by Dr. Christian Mandery and Nikolas Gerlich",
+    "Building an open-source and cross-platform Azure CLI with Python by Dan Taylor",
     "More",
     "The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers. Learn more",
     "Become a Member Donate to the PSF",
