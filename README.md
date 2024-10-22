@@ -44,3 +44,9 @@ This course covers fundamental and advanced aspects of web scraping, including:
 ## 🤝 Contributing
 
 Contributions to improve the course content are welcome. Feel free to open an issue or submit a pull request.
+
+## 📝 Your feedback
+
+We appreciate your feedback! Please share your impressions and suggestions by filling out the following form:
+
+[Give your feedback here](https://docs.google.com/forms/d/e/1FAIpQLSfTRzgjomMKIsf4NJ7N-FHa94DfpNMwSRyRfKyEyyUPUYWLdg/viewform?usp=sf_link)
