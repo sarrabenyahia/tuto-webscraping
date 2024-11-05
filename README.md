@@ -29,7 +29,7 @@ This course covers fundamental and advanced aspects of web scraping, including:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/web-scraping-course.git
+   git clone https://github.com/sarrabenyahia/web-scraping-course.git
    ```
 2. Install dependencies:
    ```
