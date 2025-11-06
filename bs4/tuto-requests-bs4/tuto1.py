@@ -43,7 +43,7 @@ if response.status_code == 200:
     soup = BeautifulSoup(html, "lxml")
 
     # Find all the titles of the books
-    titre = soup.find("h1").text
+    titre = soup.find("a").text
     print(titre)
 
     # Find all the prices of the books
@@ -69,8 +69,11 @@ if response.status_code == 200:
         prices = card.find("p").text
         print(prices)
 
+    
     # Find all the article elements with class 'product_pod'
-    book_articles = soup.find_all("article", class_="product_pod")
+    titles = soup.find_all("h3")
+    for title in titles:
+        title.find("a").get("title")
 
     # ------------------------- EXERCICE CORRECTION : FIND ALL TITLES OF BOOKS
     # Using find_all() to get all book articles
